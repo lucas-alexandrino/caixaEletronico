@@ -9,6 +9,7 @@
 <li>Após concluir a operação, o resultado será exibido na tela, mostrando o saldo atualizado ou o extrato da conta.
 </ol><br>
 
+<h3>Recursos:</h3>
 <ul>
 <li>Interface intuitiva e fácil de usar.
 <li>Simulação realista das operações de um caixa eletrônico.
