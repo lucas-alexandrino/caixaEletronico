@@ -1,4 +1,4 @@
-<Strong>Desenvolvido com JavaScript puro, o Caixa Eletrônico demonstra as habilidades e conhecimentos adquiridos pelos participantes do bootcamp do Instituto PROA, oferecendo uma solução funcional e prática para as necessidades de gerenciamento financeiro.
+<Strong>Desenvolvido com JavaScript puro, o Caixa Eletrônico demonstra as habilidades e conhecimentos adquiridos em JavaScript, oferecendo uma solução funcional e prática para as necessidades de gerenciamento financeiro.
 
 <h1>Instruções de Uso:</h1>
 
