@@ -15,5 +15,3 @@
 <li>Simulação realista das operações de um caixa eletrônico.
 <li>Funcionalidades básicas, incluindo saque, consulta de saldo e visualização de extrato.
 </ul>
-
-Para mais informações ou para entrar em contato, visite o <a href="proa.org.br" target="_blank" >Instituto PROA.</a>
